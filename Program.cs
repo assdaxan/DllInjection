@@ -35,7 +35,7 @@ namespace DllInjection{
         const uint MEM_RESERVE = 0x00002000;
         const uint PAGE_READWRITE = 4;
 
-        Process[] getProcess(string processName){
+        static Process[] getProcess(string processName){
             Process[] process = new Process[0];
             try{
                 process = Process.GetProcessesByName(processName);
