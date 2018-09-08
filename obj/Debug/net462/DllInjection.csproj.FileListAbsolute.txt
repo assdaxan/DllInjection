@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\DllInjection\bin\Debug\net462\DllInjection.exe.config
+C:\Users\Administrator\Desktop\DllInjection\bin\Debug\net462\DllInjection.exe
+C:\Users\Administrator\Desktop\DllInjection\bin\Debug\net462\DllInjection.pdb
+C:\Users\Administrator\Desktop\DllInjection\obj\Debug\net462\DllInjection.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\DllInjection\obj\Debug\net462\DllInjection.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DllInjection\obj\Debug\net462\DllInjection.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\DllInjection\obj\Debug\net462\DllInjection.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\DllInjection\obj\Debug\net462\DllInjection.exe
+C:\Users\Administrator\Desktop\DllInjection\obj\Debug\net462\DllInjection.pdb
